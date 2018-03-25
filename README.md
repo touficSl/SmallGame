@@ -14,7 +14,7 @@
 - It Allows user to select the number of rows and the operator (‘+’, ‘-’, ‘/’).
 
 
-## Algorithm
+# Algorithm
 
 -  I take random numbers between 2 small numbers,  and i calculate all the table then, I show only these cells:
 

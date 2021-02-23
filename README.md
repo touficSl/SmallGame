@@ -2,9 +2,9 @@
 
 ## Objective
 
-- tajriSpeed up user calculation skills,
-- Optimize children's intelligence,
-- Show the time (in second),
+- Speed up user calculation skills.
+- Optimize children's intelligence.
+- Show the time (in second).
 - Challenge and Fun.
  
 

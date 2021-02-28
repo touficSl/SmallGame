@@ -1,4 +1,6 @@
-# Introduction
+# Small Game
+
+## Introduction
 
 ## Objective
 
